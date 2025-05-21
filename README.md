@@ -58,12 +58,12 @@ func main() {
 ```
 
 <div align="center">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=shusui-dev&show_icons=true&count_private=true&title_color=ea4094&icon_color=ea4094&text_color=C9D1D9&bg_color=0D1117&hide_border=true" alt="Shusui GitHub Stats"/>
-  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shusui-dev&layout=compact&title_color=ea4094&text_color=C9D1D9&bg_color=0D1117&hide_border=true"/>
+  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=shusuiCatLover&show_icons=true&count_private=true&title_color=ea4094&icon_color=ea4094&text_color=C9D1D9&bg_color=0D1117&hide_border=true" alt="Shusui GitHub Stats"/>
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shusuiCatLover&layout=compact&title_color=ea4094&text_color=C9D1D9&bg_color=0D1117&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shusui-dev&theme=redical&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shusuiCatLover&theme=redical&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 > *"Trying to make a good difference"*
