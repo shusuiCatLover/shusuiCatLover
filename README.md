@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5cc0cd&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff2160&height=120&section=header"/>
 
   <img src="assets/heading.svg" alt="shusui-logo"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=5cc0cd&center=true&vcenter=true&random=false&width=940&lines=%20%20%20%20%20Fullstack+Developer;%20%20%20%20%20Deep+in+Studies;%20%20%20%20%20Fluent+in+English+and+Portuguese" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=ff2160&center=true&vcenter=true&random=false&width=940&lines=%20%20%20%20%20Fullstack+Developer;%20%20%20%20%20Deep+in+Studies;%20%20%20%20%20Fluent+in+English+and+Portuguese" alt="Typing SVG"/>
 </div>
 
 ```go
@@ -58,8 +58,8 @@ func main() {
 ```
 
 <div align="center">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=shusuiCatLover&show_icons=true&count_private=true&title_color=5cc0cd&icon_color=ea4094&text_color=C9D1D9&bg_color=0D1117&hide_border=true" alt="Shusui GitHub Stats"/>
-  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shusuiCatLover&layout=compact&title_color=5cc0cd&text_color=C9D1D9&bg_color=0D1117&hide_border=true"/>
+  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=shusuiCatLover&show_icons=true&count_private=true&title_color=ff2160&icon_color=ea4094&text_color=C9D1D9&bg_color=0D1117&hide_border=true" alt="Shusui GitHub Stats"/>
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shusuiCatLover&layout=compact&title_color=ff2160&text_color=ffffff&bg_color=0D1117&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -74,5 +74,5 @@ func main() {
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5cc0cd&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff2160&height=120&section=footer"/>
 </div>
