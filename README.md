@@ -3,7 +3,7 @@
 
   <img src="assets/heading.svg" alt="shusui-logo"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=4e85d3&center=true&vcenter=true&random=false&width=940&lines=%20%20%20%20%20Fullstack+Developer;%20%20%20%20%20Deep+in+Studies;%20%20%20%20%20Fluent+in+English+and+Portuguese" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=4e85d3&center=true&vcenter=true&random=false&width=940&lines=%20%20%20%20%20Software+Developer;%20%20%20%20%20Data+Science;%20%20%20%20%20System+Analysis;%20%20%20%20%20Linux+Fanatic" alt="Typing SVG"/>
 </div>
 
 ```go
